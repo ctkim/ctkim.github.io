@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christine Kim</title>
-    <link>https://academia-hugo.netlify.com/authors/admin/</link>
+    <link>https://ctkim.github.io/authors/admin/</link>
     <description>Recent content on Christine Kim</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     
-	    <atom:link href="https://academia-hugo.netlify.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ctkim.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
