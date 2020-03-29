@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christine Kim</title>
-    <link>https://academia-hugo.netlify.com/</link>
-    <description>Recent content on Christine Kim</description>
+    <title>Christine Kim | Actor</title>
+    <link>https://ctkim.github.io/</link>
+    <description>Recent content on Christine Kim | Actor</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 19 Mar 2020 19:00:29 -0400</lastBuildDate>
     
-	    <atom:link href="https://academia-hugo.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ctkim.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://academia-hugo.netlify.com/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://ctkim.github.io/post/</link>
+      <pubDate>Thu, 19 Mar 2020 19:00:29 -0400</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/post/</guid>
+      <guid>https://ctkim.github.io/post/</guid>
       <description></description>
     </item>
     
