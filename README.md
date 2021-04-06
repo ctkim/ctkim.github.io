@@ -1,1 +1,1 @@
-christineeunjikim.com
+http://christineeunjikim.com
