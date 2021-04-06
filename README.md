@@ -1,1 +1,1 @@
-https://findchristinekim.com
+http://christineeunjikim.com
